@@ -1,4 +1,14 @@
-# Learning Dashboard – Android (90% handwritten and 10% ai)
+# Learning Dashboard – Android (90% Handwritten and 10% AI)
+
+
+## Screenshots
+
+<p align="start">
+  <img src="screenshots/Screenshot_20261002_205238.png" width="230" />
+  <img src="screenshots/Screenshot_20261002_205316.png" width="230" />
+  <img src="screenshots/Screenshot_20261002_205329.png" width="230" />
+  <img src="screenshots/Screenshot_20261002_205350.png" width="230" />
+</p>
 
 
 A small Learning Dashboard application built using **Kotlin and Jetpack Compose**.
