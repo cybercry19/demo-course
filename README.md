@@ -10,6 +10,8 @@
   <img src="screenshots/Screenshot_20261002_205350.png" width="230" />
 </p>
 
+There is video and and android build as well in project.
+
 
 A small Learning Dashboard application built using **Kotlin and Jetpack Compose**.
 
